@@ -1,3 +1,6 @@
+## Recipe Blog OpenAI API Example
+This is just an example of an implementation of OpenAI's API for a recipe blog to give a person recipes based on the ingredients they have on hand, cuisine preferences, and food allergies. This could be implemented into my recipe website if I chose to monetize it.
+
 ### Output based on my user profile:
 ```
 Title: Creamy Mushroom Pasta with Ground Turkey
